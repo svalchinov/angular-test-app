@@ -14,3 +14,8 @@ Prices are inside products
 
 
 Orders are inside rounds
+
+
+
+[Demo](http://svalchinov.me/angular-test/)
+
