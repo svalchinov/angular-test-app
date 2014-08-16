@@ -1,0 +1,46 @@
+{
+    "bars": [
+        {
+            "id": "0",
+            "name": "Bailie Bar",
+            "lat": "55.957442",
+            "long": "-3.207209",
+            "image_url": "images/bailie.jpg"
+        },
+        {
+            "id": "1",
+            "name": "The Last Drop",
+            "lat": "55.947847",
+            "long": "-3.195342",
+            "image_url": "images/the-last-drop.jpg"
+        },
+        {
+            "id": "2",
+            "name": "The Worlds End",
+            "lat": "55.950568",
+            "long": "-3.184278",
+            "image_url": "images/the-worlds-end.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Port O'Leith",
+            "lat": "55.974596",
+            "long": "-3.167525",
+            "image_url": "images/port-o-leith.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Frankenstein Pub",
+            "lat": "55.947357",
+            "long": "-3.191597",
+            "image_url": "images/frankenstein.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Beehive Inn",
+            "lat": "55.947407",
+            "long": "-3.197119",
+            "image_url": "images/beehive-inn.jpg"
+        }
+    ]
+}

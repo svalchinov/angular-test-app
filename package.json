@@ -1,0 +1,14 @@
+{
+  "name": "angular-test",
+  "version": "0.0.0",
+  "description": "Angular Test",
+  "main": "server.js",
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "morgan": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "express": "^3.8.1"
+  }
+}

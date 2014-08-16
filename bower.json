@@ -1,0 +1,13 @@
+{
+  "name": "angular-test",
+  "description": "AngularJS Test",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "~1.2.22",
+    "angular-bootstrap": "~0.11.0",
+    "angular-local-storage": "~0.0.7"
+  }
+}

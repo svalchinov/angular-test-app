@@ -1,0 +1,73 @@
+{
+    "products": [
+        {
+            "id": "0",
+            "name": "Tennent's Lager",
+            "image_url": "images/tennents.jpg"
+        },
+        {
+            "id": "1",
+            "name": "Guiness",
+            "image_url": "images/guiness.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Stella",
+            "image_url": "images/stella.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Addlestone's",
+            "image_url": "images/addlestones.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Blackthorn",
+            "image_url": "images/blackthorn.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Carlsberg",
+            "image_url": "images/carlsberg.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Belhaven Best",
+            "image_url": "images/belhaven-best.jpg"
+        },
+        {
+            "id": "7",
+            "name": "White Waters",
+            "image_url": "images/white-waters.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Vinewood",
+            "image_url": "images/vinewood.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Barefoot",
+            "image_url": "images/barefoot.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Bulmers Cider",
+            "image_url": "images/bulmers-cider.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Kopparberg",
+            "image_url": "images/kopparberg.jpg"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+

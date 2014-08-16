@@ -1,0 +1,291 @@
+{
+    "prices": [
+        {
+            "bar_id": "0",
+            "product_id": "0",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "1",
+            "current_price": "5.00"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "2",
+            "current_price": "4.25"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "3",
+            "current_price": "4.80"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "4",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "5",
+            "current_price": "2.50"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "6",
+            "current_price": "3.99"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "7",
+            "current_price": "6.00"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "8",
+            "current_price": "5.25"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "9",
+            "current_price": "3.80"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "10",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "0",
+            "product_id": "11",
+            "current_price": "4.65"
+        },
+        {
+            "bar_id": "1",
+            "product_id": "0",
+            "current_price": "3.25"
+        },
+        {
+            "bar_id": "1",
+            "product_id": "6",
+            "current_price": "3.99"
+        },
+        {
+            "bar_id": "1",
+            "product_id": "7",
+            "current_price": "6.00"
+        },
+        {
+            "bar_id": "1",
+            "product_id": "8",
+            "current_price": "5.25"
+        },     
+        {
+            "bar_id": "2",
+            "product_id": "3",
+            "current_price": "4.80"
+        },
+        {
+            "bar_id": "2",
+            "product_id": "4",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "2",
+            "product_id": "5",
+            "current_price": "2.50"
+        },
+        {
+            "bar_id": "2",
+            "product_id": "6",
+            "current_price": "3.99"
+        },
+        {
+            "bar_id": "2",
+            "product_id": "7",
+            "current_price": "6.00"
+        },
+        {
+            "bar_id": "2",
+            "product_id": "8",
+            "current_price": "5.25"
+        },
+        {
+            "bar_id": "2",
+            "product_id": "9",
+            "current_price": "3.80"
+        },        
+        {
+            "bar_id": "2",
+            "product_id": "11",
+            "current_price": "4.65"
+        },       
+        {
+            "bar_id": "3",
+            "product_id": "1",
+            "current_price": "5.00"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "2",
+            "current_price": "4.25"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "3",
+            "current_price": "4.80"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "4",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "5",
+            "current_price": "2.50"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "6",
+            "current_price": "3.99"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "7",
+            "current_price": "6.00"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "8",
+            "current_price": "5.25"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "9",
+            "current_price": "3.80"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "10",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "11",
+            "current_price": "4.65"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "3",
+            "current_price": "4.80"
+        },
+        {
+            "bar_id": "3",
+            "product_id": "4",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "6",
+            "current_price": "3.99"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "7",
+            "current_price": "6.00"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "8",
+            "current_price": "5.25"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "9",
+            "current_price": "3.80"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "10",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "11",
+            "current_price": "4.65"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "3",
+            "current_price": "4.80"
+        },
+        {
+            "bar_id": "4",
+            "product_id": "4",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "0",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "1",
+            "current_price": "5.00"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "2",
+            "current_price": "4.25"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "3",
+            "current_price": "4.80"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "4",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "5",
+            "current_price": "2.50"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "6",
+            "current_price": "3.99"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "7",
+            "current_price": "6.00"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "8",
+            "current_price": "5.25"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "9",
+            "current_price": "3.80"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "10",
+            "current_price": "3.50"
+        },
+        {
+            "bar_id": "5",
+            "product_id": "11",
+            "current_price": "4.65"
+        }
+
+       
+    ]
+}
