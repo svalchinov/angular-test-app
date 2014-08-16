@@ -1,6 +1,10 @@
 
 #### Simple pub app using AngularJS and local storage
 
+
+
+##### Ideal/possible API routes 
+
 | HTTP          | URL                                    		| Result                            |
 | ------------- |:----------------------------------------------| ----------------------------------|
 | GET           | /api/bars/     					     		| list of all bars                  |
@@ -10,10 +14,9 @@
 | GET           | /api/bars/{bar_id}/round/{round_id}/orders    | list of orders in a round         |
 
 
-Prices are inside products
+Prices will be inside products object thus possibly reducing the amount of API calls and complexity.
 
-
-Orders are inside rounds
+Orders will be posteds inside rounds from the front-end
 
 
 
